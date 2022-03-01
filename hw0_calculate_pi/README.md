@@ -3,13 +3,13 @@
 ## 计算原理
 
 反正切公式：
-![反正切公式](hw0_calculate_pi/pic/0.png)
+![反正切公式](pic/0.png)
 
 反正切函数展开式：
-![展开式](hw0_calculate_pi/pic/1.png)
+![展开式](pic/1.png)
 
 最终公式：
-![最终公式](hw0_calculate_pi/pic/2.png)
+![最终公式](pic/2.png)
 
 利用这个公式，每计算一项可以得到约 4.471 个有效数字。
 
