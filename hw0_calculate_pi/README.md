@@ -2,7 +2,7 @@
 
 ## 计算原理
 
-反正切公式：
+反正切公式：[点此验证](https://www.wolframalpha.com/input?i=68ArcTan%5B1%2F12943%5D%2B44ArcTan%5B1%2F5357%5D%2B32ArcTan%5B1%2F682%5D%2B51ArcTan%5B1%2F239%5D%2B88ArcTan%5B1%2F172%5D)
 ![反正切公式](pic/0.png)
 
 反正切函数展开式：
